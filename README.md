@@ -1,5 +1,16 @@
 # 💫 About Me:
-I am a UI/UX Designer and a Flutter Developer with over 5 years of experience. I have over 20 apps live on the play store and the app store.
+I am a Senior UI/UX Designer  with over 5 years of experience. I have over 20 apps live on play store and app store. I did my Bachelors in Computer Sciences and some Project Management certifications from Google.
+
+# 💻 My Services:
+I provide extra ordinary results in the following fields:
+
+* Mobile Application Design
+
+* Website Design
+
+* Dashboard & SaaS Design
+
+* Graphic Design (Banners Design + Brochure Design etc)
 
 
 ## 🌐 Socials:
